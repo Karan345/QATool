@@ -1,0 +1,27 @@
+The continuous miniaturisation of metal–oxide–
+semiconductor field-effect transistors (MOSFETs) from long- to
+short-channel architectures has advanced beyond the predictions
+of Moore’s Law. Continued advances in semiconductor
+electronics, even near current scaling and performance
+boundaries under cryogenic conditions, are driving the
+development of innovative device paradigms that enable ultra–
+low-power and high-speed functionality. Among emerging
+candidates, the Josephson Junction Field-Effect Transistor
+(JJFET or JoFET) provides an alternative by integrating
+superconducting source and drain electrodes for efficient, phase-
+coherent operation at ultra-low temperatures. These hybrid
+devices have the potential to bridge conventional semiconductor
+electronics with cryogenic logic and quantum circuits, enabling
+energy-efficient and high-coherence signal processing across
+temperature domains. This review traces the evolution from
+Josephson junctions to field-effect transistors, emphasising the
+structural and functional innovations that underpin modern
+device scalability. The performance and material compatibility of
+JJFETs fabricated on Si, GaAs, and InGaAs substrates are
+analysed, alongside an assessment of their switching dynamics and
+material compatibility. Particular attention is given to
+superconductor–silicon–superconductor Josephson junctions as
+the active core of JJFET architectures. By unfolding more than
+four decades of experimental progress, this work highlights the
+promise of JJFETs as foundational building blocks for next-
+generation cryogenic logic and quantum electronic systems.
